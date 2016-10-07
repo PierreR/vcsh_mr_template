@@ -1,2 +1,1 @@
-[$HOME/projects/cicd/devbox]
-checkout = git clone git@github.com:CIRB/devbox.git devbox
+../available.d/devbox.mr
