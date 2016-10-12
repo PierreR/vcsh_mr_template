@@ -1,5 +1,7 @@
 projects/
 tmp/
+.mozilla/
+.bundle/
 .gnupg/
 .nix-channels
 .stack/
@@ -26,6 +28,7 @@ tmp/
 .bashrc
 .bash_*
 .tmux.conf
+.Xresources
 .xmobarrc
 .xprofile
 .dmrc
@@ -40,5 +43,6 @@ tmp/
 *.hi
 *.o
 *.pid
+*.log
 *errors*
 .Xdefaults

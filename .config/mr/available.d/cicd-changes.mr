@@ -1,0 +1,2 @@
+[$HOME/projects/changes]
+checkout = git clone ssh://git@stash.cirb.lan:7999/cicd/changes.git changes
