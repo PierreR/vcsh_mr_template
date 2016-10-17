@@ -1,10 +1,12 @@
 projects/
+Downloads/
 tmp/
 .mozilla/
 .bundle/
 .gnupg/
 .nix-channels
 .stack/
+.stalonetrayrc
 .eclipse/
 .dbus/
 .pki/
