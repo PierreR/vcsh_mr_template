@@ -1,0 +1,2 @@
+[$HOME/projects/cicd/devbox/mr-template]
+checkout = git clone git@github.com:CIRB/vcsh_mr_template.git mr-template
