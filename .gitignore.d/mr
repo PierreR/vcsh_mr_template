@@ -21,6 +21,8 @@ tmp/
 .ssh/
 .ghc/
 .config/chromium/
+.config/Brackets/
+.config/gtk*/
 .config/nvim/
 .config/htop/
 .config/urxvt/
@@ -28,6 +30,8 @@ tmp/
 .config/xfce4/
 .xmonad/
 .bashrc
+.zshrc
+.zsh_*
 .bash_*
 .tmux.conf
 .Xresources
