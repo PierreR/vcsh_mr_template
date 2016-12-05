@@ -28,6 +28,7 @@ tmp/
 .config/urxvt/
 .config/vcsh/
 .config/xfce4/
+.config/mime*
 .xmonad/
 .bashrc
 .zshrc
