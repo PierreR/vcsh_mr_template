@@ -52,3 +52,11 @@ tmp/
 *.log
 *errors*
 .Xdefaults
+.zsh*
+.stack-work/
+.oh-my-zsh/
+.user_id
+.user_pwd
+.user_stack
+.zcompdump*
+stack.yaml
