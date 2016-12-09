@@ -1,0 +1,6 @@
+[$HOME/projects/cicd/pulp/management]
+checkout =
+    git clone ssh://git@stash.cirb.lan:7999/cicd/pulp-management.git management
+    pushd $HOME/projects/cicd/pulp/management
+    git submodule update --init
+    popd

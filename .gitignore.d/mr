@@ -61,3 +61,4 @@ tmp/
 .user_stack
 .zcompdump*
 stack.yaml
+.puppetlabs
