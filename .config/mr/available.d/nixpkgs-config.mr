@@ -1,0 +1,8 @@
+[$HOME/.nixpkgs]
+checkout =
+    git init .nixpkgs
+    cd .nixpkgs
+    git config core.sparsecheckout true
+    git remote add -f origin git@github.com:CIRB/devbox.git
+    echo user/config.nix > .git/info/sparse-checkout
+    git checkout v3
