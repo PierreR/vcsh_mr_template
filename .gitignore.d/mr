@@ -20,6 +20,7 @@ tmp/
 .parallel/
 .ssh/
 .ghc/
+.config/albert.conf
 .config/chromium/
 .config/Brackets/
 .config/gtk*/
@@ -27,6 +28,8 @@ tmp/
 .config/htop/
 .config/urxvt/
 .config/vcsh/
+.config/taffybar/
+.config/nixpkgs/
 .config/xfce4/
 .config/mime*
 .xmonad/
@@ -63,3 +66,6 @@ tmp/
 stack.yaml
 .puppetlabs
 .nixpkgs_ref
+.nixpkgs.json
+.stack.yaml
+.dev-ghc-env.nix
