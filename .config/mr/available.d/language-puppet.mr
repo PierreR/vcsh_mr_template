@@ -7,4 +7,5 @@ checkout =
     git pull -q upstream master
     git branch --set-upstream-to=upstream/master upstream
     git config user.email "pierrer@pi3r.be"
+    ln -s $HOME/.stack.yaml $HOME/projects/cicd/puppet/language-puppet/stack.yaml
 skip = ([ "$1" = update ])
