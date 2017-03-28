@@ -4,5 +4,3 @@ checkout =
     cd shell
     ln -s $HOME/.stack.yaml stack.yaml
     cabal2nix . > default.nix
-    source $(autojump-share)/autojump.zsh
-    autojump -i 10
