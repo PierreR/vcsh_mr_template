@@ -1,2 +1,4 @@
 [$HOME/.config/vcsh/repo.d/mr.git]
-checkout = vcsh clone git@mygithub.com:PierreR/vcsh_mr_template.git mr
+checkout =
+  vcsh clone git@mygithub.com:PierreR/vcsh_mr_template.git mr
+  vcsh mr update-index --assume-unchanged .mrconfig
